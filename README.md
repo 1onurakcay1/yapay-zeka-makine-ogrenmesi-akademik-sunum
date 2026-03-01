@@ -6,7 +6,7 @@ Bu çalışma, İstanbul Ticaret Üniversitesi kapsamında hazırlanmış akadem
 
 ## PDF Dosyası
 
-Not: GitHub önizleme sistemi bazı durumlarda PDF dosyalarını tarayıcı içinde görüntüleyemeyebilir. Bu durumda dosya doğrudan indirilebilir.
+Not: GitHub önizleme sistemi bazı durumlarda PDF dosyalarını tarayıcı içinde görüntüleyemeyebilir. Bu linkten dosyayı indirip, bilgisayarınızda açabilirsiniz. (2.3MB)
 
 [Sunumu Görüntüle](https://raw.githubusercontent.com/1onurakcay1/yapay-zeka-makine-ogrenmesi-akademik-sunum/main/Onur_Muhammet_Akcay_Yapay_Zeka_Makine_Ogrenmesi_2026.pdf)
 
