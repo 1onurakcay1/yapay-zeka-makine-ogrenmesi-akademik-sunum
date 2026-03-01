@@ -13,6 +13,12 @@ Doç. Dr. Agah Tuğrul Korucu
 
 ---
 
+## PDF Dosyası
+
+[Sunumu Görüntüle](https://raw.githubusercontent.com/1onurakcay1/yapay-zeka-makine-ogrenmesi-akademik-sunum/main/Onur_Muhammet_Akcay_Yapay_Zeka_Makine_Ogrenmesi_2026.pdf)
+
+---
+
 ## Sunumun Kapsamı
 
 Bu sunum aşağıdaki konuları kapsamaktadır:
@@ -30,10 +36,6 @@ Bu sunum aşağıdaki konuları kapsamaktadır:
 - Yapay Zekâ ve Etik
 
 ---
-
-## PDF Dosyası
-
-[Sunumu Görüntüle](https://raw.githubusercontent.com/1onurakcay1/yapay-zeka-makine-ogrenmesi-akademik-sunum/main/Onur_Muhammet_Akcay_Yapay_Zeka_Makine_Ogrenmesi_2026.pdf)
 
 ---
 
