@@ -6,8 +6,8 @@ Her hafta işlenen konuya ait sunumu bu repo üzerinden paylaşacağım.
 
 ---
 
-NOT: GitHub bazı durumlarda PDF dosyalarını tarayıcı içinde önizleyemeyebilir. 
-Bağlantıya tıkladığınızda dosya doğrudan indirilebilir; indirerek görüntüleyebilirsiniz.
+## NOT: GitHub bazı durumlarda PDF dosyalarını tarayıcı içinde önizleyemeyebilir.
+**Bağlantıya tıkladığınızda dosya doğrudan indirilebilir; indirerek görüntüleyebilirsiniz.**
 
 ## 📂 Sunumlar
 
