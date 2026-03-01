@@ -1,46 +1,32 @@
-# Yapay Zekâ ve Makine Öğrenmesine Akademik Giriş
+# Onur Muhammet Akçay – Yapay Zekâ ve Büyük Veri ile Finans Sunumları
 
-Bu çalışma, İstanbul Ticaret Üniversitesi kapsamında hazırlanmış akademik bir sunumdur.
+Bu repo, İstanbul Ticaret Üniversitesi’nde aldığım **“Yapay Zekâ ve Büyük Veri ile Finans”** dersi kapsamında hazırladığım haftalık sunumları içermektedir.
 
----
-
-## PDF Dosyası
-
-Not: GitHub önizleme sistemi bazı durumlarda PDF dosyalarını tarayıcı içinde görüntüleyemeyebilir. Bu linkten dosyayı indirip, bilgisayarınızda açabilirsiniz. (2.3MB)
-
-[Sunumu Görüntüle](https://raw.githubusercontent.com/1onurakcay1/yapay-zeka-makine-ogrenmesi-akademik-sunum/main/Onur_Muhammet_Akcay_Yapay_Zeka_Makine_Ogrenmesi_2026.pdf)
-
-## Hazırlayan
-Onur Muhammet Akçay  
-
-## Ders
-Yapay Zekâ ve Büyük Veri ile Finans  
-
-## Danışman
-Doç. Dr. Agah Tuğrul Korucu  
+Her hafta işlenen konuya ait sunumu bu repo üzerinden paylaşacağım.
 
 ---
 
-## Sunumun Kapsamı
+> NOT: GitHub bazı durumlarda PDF dosyalarını tarayıcı içinde önizleyemeyebilir. 
+> Bağlantıya tıkladığınızda dosya doğrudan indirilebilir; indirerek görüntüleyebilirsiniz.
 
-Bu sunum aşağıdaki konuları kapsamaktadır:
+## 📂 Sunumlar
 
-- Yapay Zekâ (Artificial Intelligence)
-- Makine Öğrenmesi (Machine Learning)
-- Derin Öğrenme (Deep Learning)
-- Öğrenme Paradigmaları
-- Matematiksel Modelleme ve Optimizasyon
-- Eğitim Süreci (Training Pipeline)
-- Overfitting ve Underfitting
-- Genelleme (Generalization)
-- Bias–Variance Tradeoff
-- Bilgi Temsili (Representation Learning)
-- Yapay Zekâ ve Etik
+### Hafta 1 – Yapay Zekâ ve Makine Öğrenmesine Akademik Giriş
+Artificial Intelligence (AI), Machine Learning (ML), Deep Learning, Bias–Variance Tradeoff ve Generalization kavramlarının teorik temelleri ele alınmıştır.
+
+PDF(2.3MB):
+https://raw.githubusercontent.com/1onurakcay1/yapay-zeka-makine-ogrenmesi-akademik-sunum/main/Onur_Muhammet_Akcay_Yapay_Zeka_Makine_Ogrenmesi_2026.pdf
 
 ---
 
+## 📌 Hakkında
+
+Hazırlayan: **Onur Muhammet Akçay**  
+Ders: Yapay Zekâ ve Büyük Veri ile Finans  
+Danışman: Doç. Dr. Agah Tuğrul Korucu  
+
 ---
 
-## Lisans
+## 📝 Lisans
 
-Bu çalışma Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) lisansı ile paylaşılmıştır.
+Bu içerikler Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) lisansı ile paylaşılmaktadır.
